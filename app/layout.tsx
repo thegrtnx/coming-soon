@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Coming Soon Website",
+	title: "Coming Soon",
 	description: "A coming soon website by Abolade Greatness",
 };
 
