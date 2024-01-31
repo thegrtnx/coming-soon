@@ -5,11 +5,10 @@ export default function Home() {
 		<>
 			<h1>I am Greatness</h1>
 			<p>
-				I am a{" "}
-				<s>
-					O<sup>2</sup>
-				</s>{" "}
-				who loves coding
+				Hello, my name is <b>Greatness Abolade.</b>
+			</p>
+			<p>
+				I love drinking H<sub>2</sub>0 and I <i>breathe</i> in O<sup>2</sup>
 			</p>
 		</>
 	);
